@@ -4,10 +4,10 @@ Installation
 
 1. Clone the Repository
 
-cd task-management-app
-npm install
-npm run dev
-Open http://localhost:3000
+cd task-management-app --  
+npm install --  
+npm run dev --  
+Open http://localhost:3000 -- 
 
 The api Interactions were simulated using localStorage, We can add, fetch, delete, modify the data through the service layer.
 
