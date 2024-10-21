@@ -4,7 +4,6 @@ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/task-management-app.git
 cd task-management-app
 npm install
 npm run dev
