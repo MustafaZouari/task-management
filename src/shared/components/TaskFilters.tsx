@@ -8,8 +8,7 @@ const TaskFilters: React.FC = () => {
 	const { filterTasks } = useTaskStore();
 
 	const filteredTasks: Task[] = filterTasks(searchTerm);
-	console.log(filteredTasks, "GF");
-	console.log(searchTerm, "FF");
+	
 
 	return (
 		<div className="mb-6">
